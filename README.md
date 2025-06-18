@@ -26,8 +26,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-santosh-nalawade&show_icons=true&locale=en" alt="tejas-santosh-nalawade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-santosh-nalawade&" alt="tejas-santosh-nalawade" /></p>
-<div align="center">
+
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap)
