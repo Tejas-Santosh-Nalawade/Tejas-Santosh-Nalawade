@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Santosh Nalawade</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer(MERN)</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer(MERN) | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-santosh-nalawade&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-santosh-nalawade" /> </p>
 
