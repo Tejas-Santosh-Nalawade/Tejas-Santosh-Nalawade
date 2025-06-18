@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-santosh-nalawade" alt="tejas-santosh-nalawade" /></a> </p>
 
-- 📫 How to reach me **tejassantoshnalawade@gmail.com**
+- 📫 Reach out to me on: **tejassantoshnalawade@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_g9ax9Yy4jNp3S5MjfO_CunfW-kHsHo1/view?usp=sharing](https://drive.google.com/file/d/1_g9ax9Yy4jNp3S5MjfO_CunfW-kHsHo1/view?usp=sharing)
 
