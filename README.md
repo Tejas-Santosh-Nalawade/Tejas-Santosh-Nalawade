@@ -28,5 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-santosh-nalawade&" alt="tejas-santosh-nalawade" /></p>
 <div align="center">
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap)
-</div>
