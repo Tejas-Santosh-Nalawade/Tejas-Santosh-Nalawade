@@ -216,7 +216,3 @@
 <p align="center">
   <b>Show some ❤️ by starring a few repos and connecting on LinkedIn!</b>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
-</p>
