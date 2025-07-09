@@ -183,10 +183,13 @@
 
 <details>
 <summary><b>⏱️ Coding Activity</b></summary>
+  <!--START_SECTION:waka-->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TejasNalawade&layout=compact&theme=radical" />
 </p>
 </details>
+<!--END_SECTION:waka-->
 
 <details>
 <summary><b>🔍 LeetCode Stats</b></summary>
