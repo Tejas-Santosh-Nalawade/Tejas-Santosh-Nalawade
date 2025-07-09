@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Tejas Santosh Nalawade — Aspiring Software Engineer 👨‍💻</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72000FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
 </p>
 
 <p align="center">
@@ -12,9 +12,11 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tejas-Santosh-Nalawade&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
+[![Tejas Nalawade profile views](https://u8views.com/api/v1/github/profiles/89332752/views/day-week-month-total-count.svg)](https://u8views.com/github/Tejas-Santosh-Nalawade)
+
 ---
 
-<img align="right" alt="Tejas Coding" width="350px" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
+<img align="right" alt="Tejas Coding" width="350px" src=".//Assets/illustration.png" />
 
 ### 👨‍💻 About Me
 
