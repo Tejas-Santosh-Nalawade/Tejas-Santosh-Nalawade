@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Tejas Santosh Nalawade — Aspiring Software Engineer 👨‍💻</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F72000FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 [![Tejas Nalawade profile views](https://u8views.com/api/v1/github/profiles/89332752/views/day-week-month-total-count.svg)](https://u8views.com/github/Tejas-Santosh-Nalawade)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="right" alt="Tejas Coding" width="350px" src=".//Assets/illustration.png" />
 
@@ -26,14 +26,14 @@
 - 1350+ DSA Problems Solved (350+ on LeetCode, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎓 Education
 
 - **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2024–2027)  
   CGPA: 9.22 / 10  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 Coding Profiles
 
@@ -55,7 +55,8 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🛠️ Tech Stack & Skills
 
 <table align="center">
@@ -89,6 +90,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /></td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Projects
 
@@ -127,7 +130,8 @@
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 👨‍💼 Leadership Experience
 
 <details>
@@ -153,7 +157,7 @@
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 **📃 Certifications**  
 - [Google Cloud GenAI](https://www.cloudskillsboost.google/public_profiles/42300657-f841-430c-b6cf-b809fd664971)  
@@ -165,7 +169,7 @@
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
 <summary><b>⭐ GitHub Stats</b></summary>
@@ -209,21 +213,30 @@
 </p>
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg" />
 </p>
-
-<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🔥 GitHub Streak
+<div align="center">
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Santosh-Nalawade&theme=radical" alt="Tejas-Santosh-Nalawade" />
-<p align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=github-compact">
+  <p align="center"><i>My GitHub contribution streak statistics</i></p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">📈 Contribution Activity Graph</h3>
+<div align="center">
+  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=radical&hide_border=true&bg_color=0D1117&line=FB8C00&point=FFFFFF&color=777777"/>
+
+  <p align="center"><i>A visualization of my GitHub activity over time</i></p>
+</div>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌱 Currently Exploring
 - Cloud DevOps and Infrastructure (AWS, Google Cloud, DigitalOcean)  
@@ -231,8 +244,7 @@
 - MLOps, ML Pipelines, and Deployment Workflows  
 - CI/CD, Scalable Web Systems, and Hackathons  
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <b>Show some ❤️ by starring a few repos and connecting on LinkedIn!</b>
 </p>
