@@ -12,7 +12,12 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tejas-Santosh-Nalawade&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
-[![Tejas Nalawade profile views](https://u8views.com/api/v1/github/profiles/89332752/views/day-week-month-total-count.svg)](https://u8views.com/github/Tejas-Santosh-Nalawade)
+<p align="center">
+  <a href="https://u8views.com/github/Tejas-Santosh-Nalawade">
+    <img src="https://u8views.com/api/v1/github/profiles/89332752/views/day-week-month-total-count.svg" alt="Tejas Nalawade GitHub profile views"/>
+  </a>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
