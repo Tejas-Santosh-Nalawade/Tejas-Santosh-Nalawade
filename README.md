@@ -223,7 +223,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ### 🔥 GitHub Streak
 <div align="center">
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Santosh-Nalawade&theme=radical" alt="Tejas-Santosh-Nalawade" />
+  <img height="169em" src="https://streak-stats.demolab.com/?user=Tejas-Santosh-Nalawade&theme=radical" alt="Tejas-Santosh-Nalawade" />
   <p align="center"><i>My GitHub contribution streak statistics</i></p>
 </div>
 
