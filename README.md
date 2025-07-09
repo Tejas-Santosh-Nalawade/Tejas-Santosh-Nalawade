@@ -219,6 +219,8 @@
 
 <p align="center">
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Santosh-Nalawade&theme=radical" alt="Tejas-Santosh-Nalawade" />
+<p align="center">
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=merko">
 </p>
 
 ---
