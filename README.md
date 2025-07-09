@@ -205,11 +205,86 @@
 <details>
 <summary><b>⏱️ Coding Activity</b></summary>
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2054%20mins-blue)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TejasNalawade&layout=compact&theme=radical" />
-</p>
-</details>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 205.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,848 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+🌆 Daytime                471 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+🌃 Evening                1195 commits        █████████████░░░░░░░░░░░░   51.29 % 
+🌙 Night                  434 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Tuesday                  339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Thursday                 371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Friday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Saturday                 380 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Sunday                   337 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 2 hrs 16 mins       ████████████████████░░░░░   78.14 % 
+C++                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+AutoHotkey               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Tejas-Santosh-Nalawade   2 hrs 18 mins       ████████████████████░░░░░   79.53 % 
+CP-31 Sheet              32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+GITHUB-PROFILE           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+AutoHotkey               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/07/2025 20:07:39 UTC
 <!--END_SECTION:waka-->
 
 
