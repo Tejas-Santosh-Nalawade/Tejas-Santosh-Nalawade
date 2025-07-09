@@ -169,11 +169,19 @@
 
 <details>
 <summary><b>⭐ GitHub Stats</b></summary>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Santosh-Nalawade&show_icons=true&theme=radical"/>
+<div align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Santosh-Nalawade&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Santosh-Nalawade&layout=compact&theme=radical"/>
-</p>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejas-Santosh-Nalawade&theme=radical"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  </div>
+  <br/>
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
+    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
+  </div>
+</div>
 </details>
 
 <details>
@@ -207,6 +215,10 @@
 
 <p align="center">
   <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-Santosh-Nalawade&theme=radical" alt="Tejas-Santosh-Nalawade" />
 </p>
 
 ---
