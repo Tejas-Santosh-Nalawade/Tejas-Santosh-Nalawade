@@ -236,12 +236,9 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">📈 Contribution Activity Graph</h3>
-<div align="center">
-  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=radical&hide_border=true&bg_color=0D1117&line=FB8C00&point=FFFFFF&color=777777"/>
-
-  <p align="center"><i>A visualization of my GitHub activity over time</i></p>
-</div>
+📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=radical" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
