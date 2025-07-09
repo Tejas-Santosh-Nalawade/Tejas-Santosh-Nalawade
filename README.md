@@ -1,3 +1,4 @@
+  <!--START_SECTION:waka-->
 <h1 align="center"><strong>Tejas Santosh Nalawade — Aspiring Software Engineer 👨‍💻</strong></h1>
 
 <p align="center">
@@ -183,13 +184,13 @@
 
 <details>
 <summary><b>⏱️ Coding Activity</b></summary>
-  <!--START_SECTION:waka-->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TejasNalawade&layout=compact&theme=radical" />
 </p>
 </details>
-<!--END_SECTION:waka-->
+
 
 <details>
 <summary><b>🔍 LeetCode Stats</b></summary>
@@ -219,3 +220,4 @@
 <p align="center">
   <b>Show some ❤️ by starring a few repos and connecting on LinkedIn!</b>
 </p>
+<!--END_SECTION:waka-->
