@@ -35,7 +35,7 @@
 
 ### 🎓 Education
 
-- **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2024–2027)  
+- **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)  
   CGPA: 9.22 / 10  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
