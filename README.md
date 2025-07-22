@@ -207,11 +207,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 208.7 kB Used in GitHub's Storage 
+> 📦 209.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -222,21 +222,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌆 Daytime                471 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-🌃 Evening                1262 commits        █████████████░░░░░░░░░░░░   52.02 % 
-🌙 Night                  444 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+🌞 Morning                250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+🌆 Daytime                471 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+🌃 Evening                1268 commits        █████████████░░░░░░░░░░░░   52.10 % 
+🌙 Night                  445 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Tuesday                  346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Thursday                 383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Saturday                 394 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Sunday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Tuesday                  353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Thursday                 383 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Friday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Saturday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Sunday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 
 
@@ -246,20 +246,20 @@ Sunday                   357 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 40 mins        ██████████████████████░░░   87.76 % 
-Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+C++                      1 hr 35 mins        ██████████████████████░░░   87.19 % 
+Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CONTEST                  1 hr 17 mins        █████████████████░░░░░░░░   67.39 % 
-CP-31 Sheet              23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-yolo12-road-pothole-main 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+CONTEST                  1 hr 17 mins        ██████████████████░░░░░░░   70.57 % 
+CP-31 Sheet              18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+yolo12-road-pothole-main 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -279,7 +279,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 18:57:08 UTC
+ Last Updated on 22/07/2025 18:56:59 UTC
 <!--END_SECTION:waka-->
 
 
