@@ -211,7 +211,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 209.7 kB Used in GitHub's Storage 
+> 📦 210.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,954 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -222,21 +224,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-🌆 Daytime                471 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌃 Evening                1275 commits        █████████████░░░░░░░░░░░░   51.87 % 
-🌙 Night                  447 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+🌞 Morning                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                471 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+🌃 Evening                1279 commits        █████████████░░░░░░░░░░░░   51.89 % 
+🌙 Night                  449 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Tuesday                  354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Wednesday                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Thursday                 391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Friday                   282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Tuesday                  354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Thursday                 391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Friday                   282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Saturday                 401 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Sunday                   358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -246,23 +248,23 @@ Sunday                   357 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 28 mins       ███████████████████░░░░░░   76.88 % 
-Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-RPMSpec                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+C++                      2 hrs 16 mins       ███████████████████░░░░░░   75.33 % 
+Python                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+RPMSpec                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CONTEST                  2 hrs 4 mins        ████████████████░░░░░░░░░   64.23 % 
-Calculator               40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-CP-31 Sheet              27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-SPOS-PRACTICAL           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+CONTEST                  2 hrs 4 mins        █████████████████░░░░░░░░   68.53 % 
+Calculator               40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+CP-31 Sheet              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+SPOS-PRACTICAL           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -282,7 +284,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 18:56:22 UTC
+ Last Updated on 26/07/2025 18:54:30 UTC
 <!--END_SECTION:waka-->
 
 
