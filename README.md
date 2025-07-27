@@ -169,7 +169,7 @@
 
 - [Google Cloud GenAI](https://www.cloudskillsboost.google/public_profiles/42300657-f841-430c-b6cf-b809fd664971)  
 - [Coursera – Computer Networking](https://coursera.org/share/44741d15986fccafe11776cb84afad54)  
-- [Postman Student Expert](https://badgr.com/public/assertions/mBDYNIgLSam6EW2mdCArnQ?identity__email=tejassantoshnalawade@gmail.com)  
+- [Postman Student Expert](https://badgr.com/public/assertions/mBDYNIgLSam6EW2mdCArnQ?identity__email=tejassantoshnalawade@gmail.com)
 - [Full Stack Development (MERN)](https://www.linkedin.com/in/tejas-nalawade/overlay/1747679848315/single-media-viewer/?profileId=ACoAAFB8MwABD6DNZ4QvsQsEIAxSZonUtpLdlko)  
 - [ESF IIT MADRAS Workshop on Distributed Ledger](https://www.linkedin.com/in/tejas-nalawade/details/certifications/868670292/multiple-media-viewer/?profileId=ACoAAFB8MwABD6DNZ4QvsQsEIAxSZonUtpLdlko&treasuryMediaId=1740330645806)  
 - [Infosys Springboard – 13 Courses Completed](https://www.linkedin.com/posts/tejas-nalawade_techlearning-softwaredevelopment-python-activity-7259478492302487552-YjxK)
