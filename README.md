@@ -142,7 +142,7 @@
 <details>
 <summary><b>Technical Leadership Roles</b></summary>
 
-**Jr. Technical Head – ACES, DIT** (Aug 2024 – June 2025)  
+**Technical Head – ACES, DIT** (Aug 2024 – June 2025)  
 - Designed and managed portals for college technical events with 1000+ users
 - Built websites for Acunetix 12.0 and HackSeries, engaging 2500+ students
 - Organized Git & GitHub sessions, HackSeries Hackathons, and Tech Roadmap workshops
