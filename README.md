@@ -157,7 +157,7 @@
 
 **Hackathons & Technical Events**
 - [Smart India Hackathon 2024](https://www.linkedin.com/in/tejas-nalawade/details/certifications/1747830719542/single-media-viewer/?profileId=ACoAAFB8MwABD6DNZ4QvsQsEIAxSZonUtpLdlko) (Top 120 Teams)
-- [DevClash Hackathon](https://drive.google.com/file/d/1Y7yAsegAPtGxUbDBq5C-Wulpc9eBjprP/view) Winner (Built '[Finally Placed](https://drive.google.com/file/d/1tpuyWe0O3KNMcxXcPsx7XjXfHBHj9OjB/view)' in 24 hrs)
+- [DevClash Hackathon](https://drive.google.com/file/d/1Y7yAsegAPtGxUbDBq5C-Wulpc9eBjprP/view)(Built '[Finally Placed](https://drive.google.com/file/d/1tpuyWe0O3KNMcxXcPsx7XjXfHBHj9OjB/view)' in 24 hrs)
 - Hosted national-level events: Ctrl Alt Elite, HackSeries, and coding contests
 
 </details>
