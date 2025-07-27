@@ -103,7 +103,7 @@
 <details>
 <summary><b>📌 Finally Placed – AI-Powered Placement Assistant</b></summary>
 
-[Live](https://finallyplaced.tech) | [GitHub](https://github.com/Tejas-Santosh-Nalawade/Dev-Clash)  
+[Live](https://dev-clash-hackathon.vercel.app/) | [GitHub](https://github.com/Tejas-Santosh-Nalawade/Dev-Clash)  
 (ReactJS, TailwindCSS, Node.js, Express.js, MongoDB, FastAPI, Gemini API, JWT)  
 – Built an AI-powered fullstack platform in a 24-hour DevClash Hackathon, with 10+ modules including resume parser, job matcher, and AI mock interview.  
 – Integrated Gemini API, TensorFlow, and REST APIs for dynamic ATS scoring and job recommendation.  
