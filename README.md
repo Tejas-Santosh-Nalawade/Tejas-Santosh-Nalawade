@@ -207,11 +207,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 212.2 kB Used in GitHub's Storage 
+> 📦 214.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,047 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -222,21 +224,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                477 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌃 Evening                1336 commits        █████████████░░░░░░░░░░░░   52.41 % 
-🌙 Night                  463 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+🌞 Morning                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌆 Daytime                478 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+🌃 Evening                1353 commits        █████████████░░░░░░░░░░░░   52.67 % 
+🌙 Night                  464 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Sunday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Monday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Sunday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 ```
 
 
@@ -246,34 +248,34 @@ Sunday                   378 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 hrs 14 mins       █████████████░░░░░░░░░░░░   51.06 % 
-Java                     2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+C++                      5 hrs 18 mins       █████████████░░░░░░░░░░░░   51.41 % 
+Java                     2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ALPHA PLUS 5.0 C++       4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-CODE                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-SPOS                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-CONTEST                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Unknown Project          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+ALPHA PLUS 5.0 C++       4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.90 % 
+CODE                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+SPOS                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+CONTEST                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Unknown Project          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
-Windows                  10 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -283,7 +285,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 18:53:55 UTC
+ Last Updated on 03/08/2025 18:54:47 UTC
 <!--END_SECTION:waka-->
 
 
