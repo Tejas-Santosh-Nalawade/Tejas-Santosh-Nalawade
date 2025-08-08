@@ -205,13 +205,13 @@
 <details>
 <summary><b>⏱️ Coding Activity</b></summary>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 234.5 kB Used in GitHub's Storage 
+> 📦 234.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -222,21 +222,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                478 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-🌃 Evening                1383 commits        █████████████░░░░░░░░░░░░   52.93 % 
-🌙 Night                  470 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌞 Morning                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+🌆 Daytime                478 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+🌃 Evening                1389 commits        █████████████░░░░░░░░░░░░   52.89 % 
+🌙 Night                  476 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   376 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Tuesday                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Thursday                 403 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Sunday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Monday                   376 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Tuesday                  382 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Friday                   303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 ```
 
 
@@ -246,24 +246,24 @@ Sunday                   398 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-C++                      2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Markdown                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Text                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+C++                      4 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Java                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Markdown                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Python                   2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Text                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CODE                     4 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.64 % 
-COMPLETE-PYTHON          2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-ALPHA PLUS 5.0 C++       2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Acunetix-12.0            1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Finally-Placed           48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+COMPLETE-PYTHON          2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+ALPHA PLUS 5.0 C++       2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+CODE                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+CONTEST                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+SPOS                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 💻 Operating System: 
-Windows                  12 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -283,7 +283,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 18:59:30 UTC
+ Last Updated on 08/08/2025 18:54:41 UTC
 <!--END_SECTION:waka-->
 
 
