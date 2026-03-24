@@ -72,28 +72,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🏅 Achievements
-
-<details>
-<summary><b>Competitive Programming & Technical Competitions</b></summary>
-
-**Competitive Programming**
-- Codeforces Expert (Max Rating: 1638), 450+ problems solved
-- CodeChef 3 Star (Highest Rating: 1820), Global Rank 170 in Starters Div 2 (227 Rated)
-- LeetCode: 1000+ problems solved
-- ICPC 2025 Prelims: Ranked 1929th nationally
-
-**Hackathons & Technical Competitions**
-- Smart India Hackathon 2025: Top 2 (Internal); SIH 2024: Top 10
-- Allianz Tech Championship: Round 2 shortlisted (Top 15 / 1000+ participants)
-- 1st Rank: Google GenAI Quiz (300+ participants)
-- Rank 3: AWS AI for Bharat Hackathon Quiz (250+ participants)
-- [DevClash Hackathon](https://drive.google.com/file/d/1Y7yAsegAPtGxUbDBq5C-Wulpc9eBjprP/view): Built [Finally Placed](https://drive.google.com/file/d/1tpuyWe0O3KNMcxXcPsx7XjXfHBHj9OjB/view) in 24 hours
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
@@ -217,6 +195,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🏅 Achievements
+
+<details>
+<summary><b>Competitive Programming & Technical Competitions</b></summary>
+
+**Competitive Programming**
+- Codeforces Expert (Max Rating: 1638), 450+ problems solved
+- CodeChef 3 Star (Highest Rating: 1820), Global Rank 170 in Starters Div 2 (227 Rated)
+- LeetCode: 1000+ problems solved
+- ICPC 2025 Prelims: Ranked 1929th nationally
+
+**Hackathons & Technical Competitions**
+- Smart India Hackathon 2025: Top 2 (Internal); SIH 2024: Top 10
+- Allianz Tech Championship: Round 2 shortlisted (Top 15 / 1000+ participants)
+- 1st Rank: Google GenAI Quiz (300+ participants)
+- Rank 3: AWS AI for Bharat Hackathon Quiz (250+ participants)
+- [DevClash Hackathon](https://drive.google.com/file/d/1Y7yAsegAPtGxUbDBq5C-Wulpc9eBjprP/view): Built [Finally Placed](https://drive.google.com/file/d/1tpuyWe0O3KNMcxXcPsx7XjXfHBHj9OjB/view) in 24 hours
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 👨‍💼 Leadership Experience
 
 <details>
@@ -244,6 +244,9 @@
 - [Infosys Springboard – 13 Courses Completed](https://www.linkedin.com/posts/tejas-nalawade_techlearning-softwaredevelopment-python-activity-7259478492302487552-YjxK)  
 
 ---
+
+<details>
+<summary><b>💻 Coding Stats</b></summary>
 
 ### ⭐ GitHub Stats
 <div align="center">
@@ -290,6 +293,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=react-dark"/>
 </p>
+
+</details>
 
 ---
 
