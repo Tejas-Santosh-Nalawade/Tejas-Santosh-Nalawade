@@ -21,9 +21,13 @@
 - 3100+ DSA Problems Solved (1000+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🎓 Education
 - **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)  
   CGPA: 9.07 / 10  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 Coding Profiles
 <p align="left">
@@ -33,6 +37,8 @@
   <a href="https://www.hackerrank.com/tejas_nalawade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/tejassantosqtxn/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Tech Stack & Skills
 <table align="center">
@@ -62,6 +68,8 @@
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
@@ -76,6 +84,8 @@
 | **ACES HackSeries** | Registration Automation Platform | <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br/>Google Apps Script, Sheets | Built real-time event registration workflows for 250+ participants with automated form handling, live tracking, and scalable deployment on GitHub Pages. |
 
 <p align="left"><i>Detailed project cards are kept below.</i></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 Projects
 
@@ -183,6 +193,8 @@
 
 </details>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🏅 Achievements
 
 <details>
@@ -215,6 +227,8 @@
 
 </details>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 👨‍💼 Leadership Experience
 
 <details>
@@ -230,6 +244,8 @@
 - Designed and managed event portals used by 1000+ participants
 
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 Coding Stats
 
@@ -252,28 +268,28 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tejas-Santosh-Nalawade&theme=radical&no-frame=true&column=6"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔍 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🔥 **GitHub Streak**
 <div align="center">
   <img height="169em" src="https://streak-stats.demolab.com/?user=Tejas-Santosh-Nalawade&theme=radical"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 📈 **Contribution Graph**
 <p align="center">
@@ -282,12 +298,14 @@
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🌱 Currently Exploring
 - Cloud DevOps (AWS, GCP, DigitalOcean)  
 - AI, ML, and Agentic AI Systems  
 - MLOps, Pipelines, and CI/CD for scalable systems  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><b>⭐ Show some love by starring repos & connecting on LinkedIn!</b></p>
 
