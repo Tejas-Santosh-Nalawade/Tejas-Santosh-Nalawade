@@ -263,11 +263,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
 </div>
 
-**⚡ Realtime GitHub Profile Card**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas-Santosh-Nalawade&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical"/>
-</p>
-
 **🔍 LeetCode Stats**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap"/>
