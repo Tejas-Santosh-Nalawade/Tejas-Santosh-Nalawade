@@ -62,7 +62,7 @@
 </tr>
 <tr>
   <td><strong>Tools</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" /><br/>T</td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" /><br/></td>
 </tr>
 <tr>
   <td><strong>Core CS</strong></td>
