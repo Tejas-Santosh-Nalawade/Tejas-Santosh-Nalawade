@@ -21,11 +21,13 @@
 - 3100+ DSA Problems Solved (1000+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
+---
 
 ### 🎓 Education
 - **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)  
   CGPA: 9.07 / 10  
 
+---
 
 ### 💻 Coding Profiles
 <p align="left">
@@ -36,6 +38,7 @@
   <a href="https://auth.geeksforgeeks.org/user/tejassantosqtxn/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
 
+---
 
 ### 🛠️ Tech Stack & Skills
 <table align="center">
@@ -65,8 +68,9 @@
 </tr>
 </table>
 
+---
 
-## 🚨 Project Highlights
+### 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
 |--------|--------|-----------|------------------------|
@@ -81,6 +85,7 @@
 
 <p align="left"><i>Detailed project cards are kept below.</i></p>
 
+---
 
 ### 🚀 Projects
 
@@ -188,6 +193,7 @@
 
 </details>
 
+---
 
 ### 🏅 Achievements
 
@@ -221,6 +227,7 @@
 
 </details>
 
+---
 
 ### 👨‍💼 Leadership Experience
 
@@ -238,13 +245,14 @@
 
 </details>
 
+---
 
 ### 💻 Coding Stats
 
 <details>
 <summary><b>GitHub & Problem Solving Metrics</b></summary>
 
-### ⭐ GitHub Stats
+**⭐ GitHub Stats**
 <div align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Santosh-Nalawade&theme=radical"/>
   <br/>
@@ -255,19 +263,17 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
 </div>
 
-### 🏆 GitHub Trophies
+**🏆 GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tejas-Santosh-Nalawade&theme=radical&no-frame=true&column=6"/>
 </p>
 
-
-### 🔍 LeetCode Stats
+**🔍 LeetCode Stats**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap"/>
 </p>
 
-
-### 🐍 GitHub Contribution Snake
+**🐍 GitHub Contribution Snake**
 <p align="center">
   <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg"/>
 </p>
@@ -286,12 +292,15 @@
 
 </details>
 
+---
 
 ### 🌱 Currently Exploring
 - Cloud DevOps (AWS, GCP, DigitalOcean)  
 - AI, ML, and Agentic AI Systems  
 - MLOps, Pipelines, and CI/CD for scalable systems  
 
+
+---
 
 <p align="center"><b>⭐ Show some love by starring repos & connecting on LinkedIn!</b></p>
 
