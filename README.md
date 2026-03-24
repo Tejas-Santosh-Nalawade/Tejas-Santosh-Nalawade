@@ -12,58 +12,37 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tejas-Santosh-Nalawade&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <a href="https://u8views.com/github/Tejas-Santosh-Nalawade">
-    <img src="https://u8views.com/api/v1/github/profiles/89332752/views/day-week-month-total-count.svg" alt="Tejas Nalawade GitHub profile views"/>
-  </a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <img align="right" alt="Tejas Coding" width="350px" src=".//Assets/illustration.png" />
 
 ### 👨‍💻 About Me
-
 - Full Stack Developer (MERN) | Competitive Programmer  
 - AI, Cloud, and DevOps Enthusiast  
 - Built impactful platforms like an AI-powered placement assistant and registration portals  
 - 3100+ DSA Problems Solved (1000+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🎓 Education
-
 - **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)  
-  CGPA: 9.22 / 10  
+  CGPA: 9.23 / 10  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 💻 Coding Profiles
-
 <p align="left">
-  <a href="https://www.codechef.com/users/tejas_nalawade" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href="https://leetcode.com/tejas_nalawade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href="https://codeforces.com/profile/tejas_nalawade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href="https://www.hackerrank.com/tejas_nalawade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/tejassantosqtxn/profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="40" height="40"/>&nbsp;&nbsp;
-  </a>
+  <a href="https://www.codechef.com/users/tejas_nalawade"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/tejas_nalawade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/tejas_nalawade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/tejas_nalawade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/tejassantosqtxn/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🛠️ Tech Stack & Skills
-
 <table align="center">
 <tr>
   <td><strong>Languages</strong></td>
@@ -259,162 +238,67 @@
 
 - [Google Cloud GenAI](https://www.cloudskillsboost.google/public_profiles/42300657-f841-430c-b6cf-b809fd664971)  
 - [Coursera – Computer Networking](https://coursera.org/share/44741d15986fccafe11776cb84afad54)  
-- [Postman Student Expert](https://badgr.com/public/assertions/mBDYNIgLSam6EW2mdCArnQ?identity__email=tejassantoshnalawade@gmail.com)
-- [Full Stack Development (MERN)](https://www.linkedin.com/in/tejas-nalawade/overlay/1747679848315/single-media-viewer/?profileId=ACoAAFB8MwABD6DNZ4QvsQsEIAxSZonUtpLdlko)  
-- [ESF IIT MADRAS Workshop on Distributed Ledger](https://www.linkedin.com/in/tejas-nalawade/details/certifications/868670292/multiple-media-viewer/?profileId=ACoAAFB8MwABD6DNZ4QvsQsEIAxSZonUtpLdlko&treasuryMediaId=1740330645806)  
-- [Infosys Springboard – 13 Courses Completed](https://www.linkedin.com/posts/tejas-nalawade_techlearning-softwaredevelopment-python-activity-7259478492302487552-YjxK)
+- [Postman Student Expert](https://badgr.com/public/assertions/mBDYNIgLSam6EW2mdCArnQ)  
+- [Full Stack Development (MERN)](https://www.linkedin.com/in/tejas-nalawade/overlay/1747679848315/single-media-viewer/)  
+- [Distributed Ledger (IIT Madras)](https://www.linkedin.com/in/tejas-nalawade/details/certifications/868670292/)  
+- [Infosys Springboard – 13 Courses Completed](https://www.linkedin.com/posts/tejas-nalawade_techlearning-softwaredevelopment-python-activity-7259478492302487552-YjxK)  
 
-</details>
+---
 
-
-
-<details>
-<summary><b>⭐ GitHub Stats</b></summary>
+### ⭐ GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Santosh-Nalawade&theme=radical" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Santosh-Nalawade&theme=radical"/>
   <br/>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejas-Santosh-Nalawade&theme=radical"/>
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
-  </div>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
   <br/>
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
-    <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
-  </div>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
 </div>
-</details>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejas-Santosh-Nalawade&theme=radical&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejas-Santosh-Nalawade&theme=radical&no-frame=true&column=6"/>
 </p>
-</details>
 
-<details>
-<summary><b>⏱️ Coding Activity</b></summary>
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2048%20mins-blue)
+---
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 212.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 38 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-🌆 Daytime                477 commits         █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌃 Evening                1336 commits        █████████████░░░░░░░░░░░░   52.41 % 
-🌙 Night                  463 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Wednesday                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 397 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Sunday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      5 hrs 14 mins       █████████████░░░░░░░░░░░░   51.06 % 
-Java                     2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 15 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ALPHA PLUS 5.0 C++       4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-CODE                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-SPOS                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-CONTEST                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Unknown Project          1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-
-💻 Operating System: 
-Windows                  10 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/main/assets/bar_graph.png)
-
-
- Last Updated on 02/08/2025 18:53:55 UTC
-<!--END_SECTION:waka-->
-
-
-<details>
-<summary><b>🔍 LeetCode Stats</b></summary>
+### 🔍 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/tejas_nalawade?ext=heatmap"/>
 </p>
-</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🐍 GitHub Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/Tejas-Santosh-Nalawade/Tejas-Santosh-Nalawade/blob/output/github-snake-dark.svg"/>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🔥 GitHub Streak
+
+---
+
+🔥 **GitHub Streak**
 <div align="center">
-  <img height="169em" src="https://streak-stats.demolab.com/?user=Tejas-Santosh-Nalawade&theme=radical" alt="Tejas-Santosh-Nalawade" />
-  <p align="center"><i>My GitHub contribution streak statistics</i></p>
+  <img height="169em" src="https://streak-stats.demolab.com/?user=Tejas-Santosh-Nalawade&theme=radical"/>
 </div>
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-📈 Contribution Graph
+📈 **Contribution Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Santosh-Nalawade&theme=react-dark"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🌱 Currently Exploring
-- Cloud DevOps and Infrastructure (AWS, Google Cloud, DigitalOcean)  
+- Cloud DevOps (AWS, GCP, DigitalOcean)  
 - AI, ML, and Agentic AI Systems  
-- MLOps, ML Pipelines, and Deployment Workflows  
-- CI/CD, Scalable Web Systems, and Hackathons  
+- MLOps, Pipelines, and CI/CD for scalable systems  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <b>Show some ❤️ by starring a few repos and connecting on LinkedIn!</b>
-</p>
+---
 
+
+<p align="center"><b>⭐ Show some love by starring repos & connecting on LinkedIn!</b></p>
