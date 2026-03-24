@@ -54,15 +54,15 @@
 </tr>
 <tr>
   <td><strong>Backend &amp; Systems</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,linux,docker" /><br/>REST APIs, Microservices</td>
+  <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,linux,docker" /><br/></td>
 </tr>
 <tr>
   <td><strong>Databases</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /><br/>SQL, ChromaDB</td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /><br/></td>
 </tr>
 <tr>
   <td><strong>Tools</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" /><br/>MLflow, Hedera, OAuth 2.0, JWT</td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" /><br/>T</td>
 </tr>
 <tr>
   <td><strong>Core CS</strong></td>
@@ -243,10 +243,14 @@
 - [Distributed Ledger (IIT Madras)](https://www.linkedin.com/in/tejas-nalawade/details/certifications/868670292/)  
 - [Infosys Springboard – 13 Courses Completed](https://www.linkedin.com/posts/tejas-nalawade_techlearning-softwaredevelopment-python-activity-7259478492302487552-YjxK)  
 
+</details>
+
 ---
 
+### 💻 Coding Stats
+
 <details>
-<summary><b>💻 Coding Stats</b></summary>
+<summary><b>GitHub & Problem Solving Metrics</b></summary>
 
 ### ⭐ GitHub Stats
 <div align="center">
