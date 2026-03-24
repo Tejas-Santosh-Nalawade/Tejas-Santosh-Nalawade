@@ -12,8 +12,6 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tejas-Santosh-Nalawade&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
 <img align="right" alt="Tejas Coding" width="350px" src=".//Assets/illustration.png" />
 
 ### 👨‍💻 About Me
@@ -23,13 +21,9 @@
 - 3100+ DSA Problems Solved (1000+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
 ### 🎓 Education
 - **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)  
   CGPA: 9.07 / 10  
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
 
 ### 💻 Coding Profiles
 <p align="left">
@@ -39,8 +33,6 @@
   <a href="https://www.hackerrank.com/tejas_nalawade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/tejassantosqtxn/profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/></a>
 </p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
 
 ### 🛠️ Tech Stack & Skills
 <table align="center">
@@ -70,8 +62,6 @@
 </tr>
 </table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
 ## 🚨 Project Highlights
 
 | Project | Domain | Core Tech | What It Actually Does |
@@ -86,8 +76,6 @@
 | **ACES HackSeries** | Registration Automation Platform | <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br/>Google Apps Script, Sheets | Built real-time event registration workflows for 250+ participants with automated form handling, live tracking, and scalable deployment on GitHub Pages. |
 
 <p align="left"><i>Detailed project cards are kept below.</i></p>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
 
 ### 🚀 Projects
 
@@ -195,8 +183,6 @@
 
 </details>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
 ### 🏅 Achievements
 
 <details>
@@ -229,8 +215,6 @@
 
 </details>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
 ### 👨‍💼 Leadership Experience
 
 <details>
@@ -247,8 +231,6 @@
 
 </details>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
 ### 💻 Coding Stats
 
 <details>
@@ -264,8 +246,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-Santosh-Nalawade&theme=radical"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tejas-Santosh-Nalawade&theme=radical&utcOffset=8"/>
 </div>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -309,9 +289,6 @@
 - AI, ML, and Agentic AI Systems  
 - MLOps, Pipelines, and CI/CD for scalable systems  
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
-
-
 <p align="center"><b>⭐ Show some love by starring repos & connecting on LinkedIn!</b></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,50:00e5ff,100:7cff00&height=4&section=header"/></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
