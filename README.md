@@ -28,7 +28,7 @@
 - Full Stack Developer (MERN) | Competitive Programmer  
 - AI, Cloud, and DevOps Enthusiast  
 - Built impactful platforms like an AI-powered placement assistant and registration portals  
-- 1480+ DSA Problems Solved (400+ on LeetCode, CodeChef Max Rating: 1841)  
+- 3100+ DSA Problems Solved (1000+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,38 +67,139 @@
 <table align="center">
 <tr>
   <td><strong>Languages</strong></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
+  <td><img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,rust" /></td>
 </tr>
 <tr>
   <td><strong>Frontend</strong></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></td>
+  <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" /></td>
 </tr>
 <tr>
-  <td><strong>Backend</strong></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" /></td>
+  <td><strong>Backend &amp; Systems</strong></td>
+  <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,linux,docker" /><br/>REST APIs, Microservices</td>
 </tr>
 <tr>
   <td><strong>Databases</strong></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /><br/>SQL, ChromaDB</td>
 </tr>
 <tr>
   <td><strong>Tools</strong></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" /><br/>MLflow, Hedera, OAuth 2.0, JWT</td>
+</tr>
+<tr>
+  <td><strong>Core CS</strong></td>
+  <td>Data Structures &amp; Algorithms, OOP, DBMS, Operating Systems, Computer Networks, System Design</td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### 🏅 Achievements
+
+<details>
+<summary><b>Competitive Programming & Technical Competitions</b></summary>
+
+**Competitive Programming**
+- Codeforces Expert (Max Rating: 1638), 450+ problems solved
+- CodeChef 3 Star (Highest Rating: 1820), Global Rank 170 in Starters Div 2 (227 Rated)
+- LeetCode: 1000+ problems solved
+- ICPC 2025 Prelims: Ranked 1929th nationally
+
+**Hackathons & Technical Competitions**
+- Smart India Hackathon 2025: Top 2 (Internal); SIH 2024: Top 10
+- Allianz Tech Championship: Round 2 shortlisted (Top 15 / 1000+ participants)
+- 1st Rank: Google GenAI Quiz (300+ participants)
+- Rank 3: AWS AI for Bharat Hackathon Quiz (250+ participants)
+- [DevClash Hackathon](https://drive.google.com/file/d/1Y7yAsegAPtGxUbDBq5C-Wulpc9eBjprP/view): Built [Finally Placed](https://drive.google.com/file/d/1tpuyWe0O3KNMcxXcPsx7XjXfHBHj9OjB/view) in 24 hours
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚨 Project Highlights
+
+| Project | Domain | Core Tech | What It Actually Does |
+|--------|--------|-----------|------------------------|
+| **NetSecOps AI** | Autonomous Fraud Intelligence Platform | <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,fastapi,python,postgres,docker" /><br/>MLflow, XGBoost, CI/CD | Enterprise-grade fraud detection with real-time AI risk scoring (800-1300 tx/sec, ~50ms latency), incident management, drift monitoring, and automated retraining pipelines for high-reliability ML operations. |
+| **Travel Ops** | AI-Powered Travel Operations Platform | <img src="https://skillicons.dev/icons?i=fastapi,python,postgres,typescript" /><br/>Groq Mixtral, Supabase, WebSockets | Built intelligent travel operations workflows with AI package recommendations, transaction rollback controls, DLQ handling, and role-based real-time dashboards for SLA and incident monitoring. |
+| **GDG-DIT Website** | Community Platform Engineering | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,typescript" /><br/>Framer Motion, GSAP, Three.js | Developed the official GDG-DIT website for 500+ members and 50+ events with SEO optimization, dynamic event management, domain showcases, and performance-focused architecture. |
+| **Wipeable (Byte Wipers)** | Secure Data Wiping Platform | <img src="https://skillicons.dev/icons?i=electron,nextjs,nodejs,express,fastapi,postgres,redis" /><br/>Hedera, LangChain | Built standards-compliant sanitization for HDD/SSD/Android devices with hidden sector wiping, tamper-proof certificates, blockchain verification, and enterprise compliance workflows. |
+| **RecruitAI** | AI-Powered Hiring Co-Pilot | <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,postgres" /><br/>OmniDimension, n8n | Automated end-to-end hiring: JD generation, resume scoring, interview scheduling, and offer workflows with voice-first capabilities and recruiter productivity optimization. |
+| **Finally Placed** | AI-Powered Placement Assistant | <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,tailwind" /><br/>Gemini API, TensorFlow | Built a 24-hour hackathon MVP for ATS scoring, resume parsing, job matching, and AI mock interviews; deployed on Vercel/Render with 40% usability improvement. |
+| **Acunetix 12.0** | Technical Event Platform | <img src="https://skillicons.dev/icons?i=react,tailwind,javascript" /><br/>Framer Motion | Developed a high-performance SPA used by 3000+ students with chatbot integration, SEO optimization, and analytics-backed iteration. |
+| **ACES HackSeries** | Registration Automation Platform | <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br/>Google Apps Script, Sheets | Built real-time event registration workflows for 250+ participants with automated form handling, live tracking, and scalable deployment on GitHub Pages. |
+
+<p align="left"><i>Detailed project cards are kept below.</i></p>
+
 ### 🚀 Projects
+
+<details>
+<summary><b>🛡️ NetSecOps AI – Autonomous Fraud Intelligence Platform</b></summary>
+
+**Timeline:** Dec 2025 - Present  
+**Context:** Allianz Tech Championship  
+(React 18, TypeScript, Vite, TailwindCSS, FastAPI, Python, scikit-learn, XGBoost, PostgreSQL, MLflow, Docker)
+
+- Built an enterprise-grade fraud detection system with AI risk scoring at 800-1300 tx/sec and ~50ms average latency.
+- Implemented full MLOps: MLflow tracking, model registry, drift monitoring, feedback loop, and automated retraining.
+- Added incident management with automated case generation, role-based authentication, MFA, and audit logs.
+- Delivered real-time transaction simulation engine and live SaaS-style observability dashboard.
+
+</details>
+
+<details>
+<summary><b>✈️ Travel Ops – AI-Powered Travel Operations Platform</b></summary>
+
+**Timeline:** Jan 2026 - Feb 2026  
+**Context:** Hack Fusion Hackathon 2026  
+(React Native Expo, TypeScript, FastAPI, Groq Mixtral, Supabase PostgreSQL, WebSockets)
+
+- Designed AI budget and package recommendation agent with match scoring.
+- Implemented transaction rollback controls with DLQ handling to reduce operational failure risk.
+- Built role-based mobile dashboards for Agent, Operations, and Admin views.
+- Integrated real-time notifications, SLA monitoring, and analytics insights.
+
+</details>
+
+<details>
+<summary><b>🌐 GDG-DIT Website – Google Developer Groups Community Platform</b></summary>
+
+**Timeline:** Oct 2025 - Dec 2025  
+**Context:** Google Developer Groups, DIT Pimpri  
+(Next.js 15, Tailwind CSS 4, Framer Motion, GSAP, Anime.js, Three.js, React Three Fiber)
+
+- Developed the official GDG-DIT website serving 500+ members and showcasing 50+ events.
+- Implemented dynamic event listing, technical domain categorization, team/faculty showcase, and gallery modules.
+- Added metadata and sitemap-driven SEO with JSON-based content architecture.
+- Optimized performance with Next.js App Router and production-ready deployment practices.
+
+</details>
+
+<details>
+<summary><b>🧹 Wipeable (Byte Wipers) – Secure Data Wiping Platform</b></summary>
+
+**Timeline:** Aug 2025 - Oct 2025  
+**Context:** Smart India Hackathon 2025 (PS ID: 25070)  
+(ElectronJS, Next.js, Node.js, Express.js, FastAPI, PostgreSQL, Redis, ChromaDB, Hedera)
+
+- Built NIST SP 800-88 aligned wiping workflows for HDD, SSD (HPA/DCO), and Android devices.
+- Generated digitally signed PDF/JSON wipe certificates with SHA-256 integrity checks.
+- Integrated blockchain-backed certificate verification with Hedera for compliance transparency.
+- Delivered cross-platform one-click desktop experience with enterprise dashboard and AI assistant.
+
+</details>
+
+<details>
+<summary><b>🤖 RecruitAI – AI-Powered Hiring Co-Pilot</b></summary>
+
+**Timeline:** Jun 2025 - Jul 2025  
+(Next.js, TypeScript, Tailwind CSS, PostgreSQL, OmniDimension, n8n)
+
+- Automated recruitment pipeline from JD generation to screening, scheduling, and offer workflows.
+- Built AI Resume Reader with NLP-driven ranking and shortlisting.
+- Added voice-first hiring interactions and smart scheduler with calendar-sync negotiation.
+- Enabled one-click LinkedIn posting and productivity-focused recruiter dashboards.
+
+</details>
 
 <details>
 <summary><b>📌 Finally Placed – AI-Powered Placement Assistant</b></summary>
@@ -142,27 +243,16 @@
 <details>
 <summary><b>Technical Leadership Roles</b></summary>
 
-**Technical Head – ACES, DIT** (Aug 2024 – June 2025)  
-- Designed and managed portals for college technical events with 1000+ users
-- Built websites for Acunetix 12.0 and HackSeries, engaging 2500+ students
-- Organized Git & GitHub sessions, HackSeries Hackathons, and Tech Roadmap workshops
-- Mentored 250+ students on DSA, Web Development, and Cloud
+**Web Development Lead – Google Developer Group (GDG DIT)**  
+- Led backend-integrated website development using Next.js
+- Conducted Google Cloud Study Jams for 250+ students
+
+**Tech Lead – Association of Computer Engineering Students (ACES)**  
+- Maintained backend workflows for ProjectHive and Acunetix contributors
+- Mentored juniors on Git, backend systems, and cloud fundamentals
+- Designed and managed event portals used by 1000+ participants
 
 </details>
-
-### 🏆 Notable Achievements
-
-<details>
-<summary><b>Competitions & Recognition</b></summary>
-
-**Hackathons & Technical Events**
-- [Smart India Hackathon 2024](https://www.linkedin.com/in/tejas-nalawade/details/certifications/1747830719542/single-media-viewer/?profileId=ACoAAFB8MwABD6DNZ4QvsQsEIAxSZonUtpLdlko) (Top 120 Teams)
-- [DevClash Hackathon](https://drive.google.com/file/d/1Y7yAsegAPtGxUbDBq5C-Wulpc9eBjprP/view)(Built '[Finally Placed](https://drive.google.com/file/d/1tpuyWe0O3KNMcxXcPsx7XjXfHBHj9OjB/view)' in 24 hrs)
-- Hosted national-level events: Ctrl Alt Elite, HackSeries, and coding contests
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
 <summary><b>📃 Certifications</b></summary>
