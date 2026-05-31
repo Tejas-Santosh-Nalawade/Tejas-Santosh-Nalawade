@@ -8,7 +8,6 @@
   <a href="https://linkedin.com/in/tejas-nalawade"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="mailto:tejassantoshnalawade@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://drive.google.com/file/d/1_g9ax9Yy4jNp3S5MjfO_CunfW-kHsHo1/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=googledrive"></a>
-  <a href="https://github.com/Tejas-Santosh-Nalawade"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Tejas-Santosh-Nalawade?label=Follow&style=for-the-badge"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Tejas-Santosh-Nalawade&label=Profile+views&color=brightgreen&style=for-the-badge" />
 </p>
 
