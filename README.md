@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Tejas Santosh Nalawade — Aspiring Software Engineer 👨‍💻</strong></h1>
+<h1 align="center"><strong>Tejas Santosh Nalawade — Software Engineer 👨‍💻</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Dev+%7C+Competitive+Programmer;AI+%2F+ML+%7C+Cloud+%7C+DevOps;Tech+Meetups+%26+Conferences"/>
