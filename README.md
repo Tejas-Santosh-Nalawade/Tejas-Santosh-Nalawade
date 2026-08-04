@@ -17,14 +17,14 @@
 - Full Stack Developer (MERN) | Competitive Programmer  
 - AI, Cloud, and DevOps Enthusiast  
 - Built impactful platforms like an AI-powered placement assistant and registration portals  
-- 3100+ DSA Problems Solved (1000+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
+- 3800+ DSA Problems Solved (1150+ on LeetCode, Codeforces Expert, CodeChef Max Rating: 1841)  
 - Mentored 250+ students in 10+ tech workshops (Web Dev, Git, DSA, Cloud)  
 
 ---
 
 ### 🎓 Education
 - **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pune (2023–2027)  
-  CGPA: 9.07 / 10  
+  CGPA: 9.1 / 10  
 
 ---
 
